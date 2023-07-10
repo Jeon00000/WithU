@@ -1,0 +1,200 @@
+@charset "UTF-8";
+
+
+
+.banner-k {
+    width: 100%;
+    position: relative;
+}
+
+.mainBack {
+    width: 100%;
+} 
+
+.textbox-k {
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+    width: 1400px;
+}
+
+.textbox-k h1 {
+    font-size: 100px;
+}
+
+.textbox-k p {
+    font-size: 20px;
+}
+
+.hero{
+    width: 100%;
+    height: 700px;
+    background: url(../images/space_background.jpeg) no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 0;
+    
+}
+.char1{
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    background:url(../images/mercury.gif);
+    background-size: 250px 250px;
+    top: 150px;
+    left: 120px;
+}
+.char2{
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background:url(../images/gumsung.png);
+    background-position: center;
+    background-size: 250px 250px;
+    top: 390px;
+    left: 320px;
+}
+.char3{
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background:url(../images/earth.webp);
+    background-position: center;
+    top: 150px;
+    left: 540px;
+}
+.char4{
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background:url(../images/huasung.png);
+    background-position: center;
+    background-size: 200px 200px;
+    top: 390px;
+    left: 720px;
+}
+.char5{
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background:url(../images/Planet.png);
+    background-position: center;
+    background-size: 200px 200px;
+    top: 150px;
+    left: 950px;
+}
+.char6{
+    position: absolute;
+    overflow: hidden;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background:url(../images/cosmos.webp);
+    background-position: center;
+    background-size: 200px 200px;
+    top: 390px;
+    left: 1120px;
+}
+.hero{
+	margin-top: -5px;
+}
+.hero img{
+    display: none;
+    position: absolute;
+    top: 90px;
+    left: 55px;
+    width: 100px;
+    height: 130px;
+}
+.char6 img{
+	position: absoulute;
+	top: 70px;
+	left: 35px;
+	width: 150px;
+	height: 150px;
+}
+/*******Developer*********/
+.do-pr {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background: rgb(0, 11, 16);
+}
+.do-ppr {
+    display: flex;
+    justify-content: space-evenly;
+}
+.do-img {
+    width: 300px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+}
+.do-slide {
+    width: 1800px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.do-slide img {
+    width: 300px;
+    height: 400px;
+    float: left;
+    object-fit: cover;
+}
+.do-content {
+    width: 300px;
+    text-align: left;
+}
+.do-content h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 400;
+	color: rgb(235, 85, 55);
+}
+.do-item {
+	width: 310px;
+}
+.do-item p {
+    line-height: 30px;
+    font-weight: 700;
+    color: #fff;
+}
+.do-box {
+    width: 180px;
+    text-align: center;
+    background-color: rgb(235, 85, 55);
+    padding: 16px 10px;
+}
+.do-box a {
+    color: rgb(255, 255, 255);
+}
+.do-box span {
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-image: initial;
+    border-radius: 50%;
+    background: rgb(235, 85, 55);
+}
+.do-box span:hover{
+    background:rgb(255, 255, 255);
+    color:rgb(235, 85, 55);
+}

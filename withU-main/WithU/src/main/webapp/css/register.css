@@ -1,0 +1,80 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+
+.container{
+	width:1000px;
+	background: #f9f9f9;
+	margin: 0 auto;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+.reg-title{
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	font-family: 'Do Hyeon', sans-serif;
+	font-size: 60px;
+}
+
+.infoster{
+	margin: 50px 0;
+	
+}
+
+.block{
+	margin-bottom: 30px;
+	margin-left: 150px;
+	
+}
+
+label{
+	display: inline-block;
+	width: 150px;
+	height: 50px;
+	line-height: 50px;
+	background: #ebe7e6;
+	text-align: center;
+}
+
+.input{
+	width: 400px;
+	height: 50px;
+	border: none;
+	background: #fff;
+	margin-left: 30px;
+	padding-left: 30px;
+	border: 1px solid #ddd;
+}
+
+button:hover{
+	background: #fc5b3a;
+}
+
+.top-btn{
+	margin-left: 10px;
+	font-size: 14px;
+	width: 100px;
+	height: 50px;
+	background: #eb5537;
+	border: none;
+	cursor: pointer;
+	color: #fff;
+}
+
+.under-btn{
+	margin: 50px 30px;
+	width: 150px;
+	width: 100px;
+	height: 50px;
+	background: #eb5537;
+	border: none;
+	cursor: pointer;
+	color: #fff;
+}
+
+.ok{
+	display: inline-block;
+	margin-left: 300px;
+}
