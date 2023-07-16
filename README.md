@@ -22,6 +22,11 @@
 <br />
 <br />
 
+##🚩 노션으로 프로젝트 보러가기
+#https://www.notion.so/WITHU-296403d4c8044bb0992159206376732a
+<br />
+<br />
+
 ## 👨‍👩‍👧‍👦 구성원
 - <b>차명진</b> (팀장) <https://github.com/myeongjin123>
 - 강우성 (팀원) <https://github.com/rkddntjd7>
