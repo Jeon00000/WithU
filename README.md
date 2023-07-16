@@ -88,5 +88,3 @@ https://www.notion.so/WITHU-296403d4c8044bb0992159206376732a
    
 
 
-## 📚 상세보기
-[ <https://www.notion.so/product> ]
