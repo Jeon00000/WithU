@@ -22,8 +22,8 @@
 <br />
 <br />
 
-##🚩 노션으로 프로젝트 보러가기
-#https://www.notion.so/WITHU-296403d4c8044bb0992159206376732a
+## 🚩노션으로 프로젝트 보러가기
+# https://www.notion.so/WITHU-296403d4c8044bb0992159206376732a
 <br />
 <br />
 
